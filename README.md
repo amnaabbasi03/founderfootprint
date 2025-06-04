@@ -106,4 +106,4 @@ streamlit run app.py
 
 ## Author
 
-Made with GPT-4 and Streamlit by [Amna Abbasi](https://github.com/amnaabbasi03)
+Made by [Amna Abbasi](https://github.com/amnaabbasi03)
