@@ -1,8 +1,8 @@
-openai>=1.0.0
-streamlit>=1.22.0
-python-dotenv>=1.0.0
-newspaper3k>=0.2.8
-beautifulsoup4>=4.12.2
-lxml>=5.1.0
-serpapi>=0.2.4
-requests>=2.31.0
+openai
+streamlit
+python-dotenv
+newspaper3k
+beautifulsoup4
+lxml
+serpapi
+requests
